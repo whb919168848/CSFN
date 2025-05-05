@@ -98,12 +98,44 @@ You can download the trained models as follows:
 
 ## Visualization Results
 <p align="center">
-    <img src="./imgs/class1.jpg" width="750"/> <br />
+    <img src="./imgs/American_Redstart.jpg" width="750"/> <br />
     <em> 
     </em>
 </p>
 
-**CAM visualization results.**  Localization visualization results all samples of CUB-200-2011 test dataset in the class “American Redstart”. More results have been shown in "imgs" file.
+Localization visualization results all samples of CUB-200-2011 test dataset in the class “American Redstart”. 
+
+<p align="center">
+    <img src="./imgs/American_Three_Toed_Woodpecker.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results all samples of CUB-200-2011 test dataset in the class “American_Three_Toed_Woodpecker”. 
+
+<p align="center">
+    <img src="./imgs/Baltimore_Oriole.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results all samples of CUB-200-2011 test dataset in the class “Baltimore_Oriole”. 
+
+<p align="center">
+    <img src="./imgs/Belted_Kingfisher.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results all samples of CUB-200-2011 test dataset in the class “Belted_Kingfisher”. 
+
+<p align="center">
+    <img src="./imgs/Black_Footed_Albatross.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results all samples of CUB-200-2011 test dataset in the class “Black_Footed_Albatross”. 
 
 ## Acknowledgements
 
