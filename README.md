@@ -22,7 +22,7 @@ Specifically, we propose a class-agnostic and semantic-aware fusing transformer 
 Moreover, benefiting from intra-class similarity like appearance and color, we propose an optimal transport co-localization module to propagate the activated regions across different images by establishing dense correspondences across semantically similar images. 
 Finally, we propose a dual classifier enhanced localization module consisting of a cross-image multi-scale aggregation classifier and a classification head to improve the classification performance of images.
 Extensive experiments demonstrate that the proposed method achieves superior performance than existing state-of-the-art WSOL methods on CUB-200-2011 and ILSVRC datasets.
-Code and models are available at https://github.com/whb919168848/CSFN}{https://github.com/whb919168848/CSFN
+Code and models are available at https://github.com/whb919168848/CSFN.
 
 
 
