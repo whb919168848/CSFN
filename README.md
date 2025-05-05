@@ -107,7 +107,6 @@ You can download the trained models as follows:
 
 ## Acknowledgements
 
-Part of our evaluation and training code based on [SAT (ICCV2023)](https://github.com/wpy1999/SAT).
+Many thanks to [SAT (ICCV2023)](https://github.com/wpy1999/SAT).
 
-Thanks for their works and sharing.
 
