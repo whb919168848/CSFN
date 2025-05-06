@@ -96,14 +96,14 @@ You can download the trained models as follows:
     </em>
 </p>
 
-## Visualization Results
+## Visualization Results of CUB-200-2011
 <p align="center">
     <img src="./imgs/American_Redstart.jpg" width="750"/> <br />
     <em> 
     </em>
 </p>
 
-Localization visualization results all samples of CUB-200-2011 test dataset in the class “American Redstart”. 
+Localization visualization results all samples in the class “American Redstart”. 
 
 <p align="center">
     <img src="./imgs/American_Three_Toed_Woodpecker.jpg" width="750"/> <br />
@@ -111,7 +111,7 @@ Localization visualization results all samples of CUB-200-2011 test dataset in t
     </em>
 </p>
 
-Localization visualization results all samples of CUB-200-2011 test dataset in the class “American_Three_Toed_Woodpecker”. 
+Localization visualization results all samples in the class “American_Three_Toed_Woodpecker”. 
 
 <p align="center">
     <img src="./imgs/Baltimore_Oriole.jpg" width="750"/> <br />
@@ -119,7 +119,7 @@ Localization visualization results all samples of CUB-200-2011 test dataset in t
     </em>
 </p>
 
-Localization visualization results all samples of CUB-200-2011 test dataset in the class “Baltimore_Oriole”. 
+Localization visualization results all samples in the class “Baltimore_Oriole”. 
 
 <p align="center">
     <img src="./imgs/Belted_Kingfisher.jpg" width="750"/> <br />
@@ -127,7 +127,7 @@ Localization visualization results all samples of CUB-200-2011 test dataset in t
     </em>
 </p>
 
-Localization visualization results all samples of CUB-200-2011 test dataset in the class “Belted_Kingfisher”. 
+Localization visualization results all samples in the class “Belted_Kingfisher”. 
 
 <p align="center">
     <img src="./imgs/Black_Footed_Albatross.jpg" width="750"/> <br />
@@ -135,7 +135,47 @@ Localization visualization results all samples of CUB-200-2011 test dataset in t
     </em>
 </p>
 
-Localization visualization results all samples of CUB-200-2011 test dataset in the class “Black_Footed_Albatross”. 
+Localization visualization results all samples in the class “Black_Footed_Albatross”. 
+
+<p align="center">
+    <img src="./imgs/Black_Footed_Albatross.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results all samples in the class “Black_Throated_Blue_Warbler”. 
+
+<p align="center">
+    <img src="./imgs/Black_Footed_Albatross.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results all samples in the class “Blue_Winged_Warbler”. 
+
+<p align="center">
+    <img src="./imgs/Black_Footed_Albatross.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results all samples in the class “Harris_Sparrow”. 
+
+<p align="center">
+    <img src="./imgs/Black_Footed_Albatross.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results all samples in the class “Heermann_Gull”. 
+
+<p align="center">
+    <img src="./imgs/Black_Footed_Albatross.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results all samples in the class “Scott_Oriole”. 
 
 ## Acknowledgements
 
