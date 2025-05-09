@@ -98,7 +98,7 @@ You can download the trained models as follows:
 
 ## Visualization Results of CUB-200-2011
 <p align="center">
-    <img src="./imgs/American_Redstart.jpg" width="750"/> <br />
+    <img src="./CAMResults/CUB/American_Redstart.jpg" width="750"/> <br />
     <em> 
     </em>
 </p>
@@ -106,7 +106,7 @@ You can download the trained models as follows:
 Localization visualization results all samples in the class “American_Redstart”. 
 
 <p align="center">
-    <img src="./imgs/American_Three_Toed_Woodpecker.jpg" width="750"/> <br />
+    <img src="./CAMResults/CUB/American_Three_Toed_Woodpecker.jpg" width="750"/> <br />
     <em> 
     </em>
 </p>
@@ -114,7 +114,7 @@ Localization visualization results all samples in the class “American_Redstart
 Localization visualization results all samples in the class “American_Three_Toed_Woodpecker”. 
 
 <p align="center">
-    <img src="./imgs/Baltimore_Oriole.jpg" width="750"/> <br />
+    <img src="./CAMResults/CUB/Baltimore_Oriole.jpg" width="750"/> <br />
     <em> 
     </em>
 </p>
@@ -122,7 +122,7 @@ Localization visualization results all samples in the class “American_Three_To
 Localization visualization results all samples in the class “Baltimore_Oriole”. 
 
 <p align="center">
-    <img src="./imgs/Belted_Kingfisher.jpg" width="750"/> <br />
+    <img src="./CAMResults/CUB/Belted_Kingfisher.jpg" width="750"/> <br />
     <em> 
     </em>
 </p>
@@ -130,7 +130,7 @@ Localization visualization results all samples in the class “Baltimore_Oriole�
 Localization visualization results all samples in the class “Belted_Kingfisher”. 
 
 <p align="center">
-    <img src="./imgs/Black_Footed_Albatross.jpg" width="750"/> <br />
+    <img src="./CAMResults/CUB/Black_Footed_Albatross.jpg" width="750"/> <br />
     <em> 
     </em>
 </p>
@@ -138,7 +138,7 @@ Localization visualization results all samples in the class “Belted_Kingfisher
 Localization visualization results all samples in the class “Black_Footed_Albatross”. 
 
 <p align="center">
-    <img src="./imgs/Black_Throated_Blue_Warbler.jpg" width="750"/> <br />
+    <img src="./CAMResults/CUB/Black_Throated_Blue_Warbler.jpg" width="750"/> <br />
     <em> 
     </em>
 </p>
@@ -146,7 +146,7 @@ Localization visualization results all samples in the class “Black_Footed_Alba
 Localization visualization results all samples in the class “Black_Throated_Blue_Warbler”. 
 
 <p align="center">
-    <img src="./imgs/Blue_Winged_Warbler.jpg" width="750"/> <br />
+    <img src="./CAMResults/CUB/Blue_Winged_Warbler.jpg" width="750"/> <br />
     <em> 
     </em>
 </p>
@@ -154,7 +154,7 @@ Localization visualization results all samples in the class “Black_Throated_Bl
 Localization visualization results all samples in the class “Blue_Winged_Warbler”. 
 
 <p align="center">
-    <img src="./imgs/Harris_Sparrow.jpg" width="750"/> <br />
+    <img src="./CAMResults/CUB/Harris_Sparrow.jpg" width="750"/> <br />
     <em> 
     </em>
 </p>
@@ -162,7 +162,7 @@ Localization visualization results all samples in the class “Blue_Winged_Warbl
 Localization visualization results all samples in the class “Harris_Sparrow”. 
 
 <p align="center">
-    <img src="./imgs/Heermann_Gull.jpg" width="750"/> <br />
+    <img src="./CAMResults/CUB/Heermann_Gull.jpg" width="750"/> <br />
     <em> 
     </em>
 </p>
@@ -170,7 +170,7 @@ Localization visualization results all samples in the class “Harris_Sparrow”
 Localization visualization results all samples in the class “Heermann_Gull”. 
 
 <p align="center">
-    <img src="./imgs/Scott_Oriole.jpg" width="750"/> <br />
+    <img src="./CAMResults/CUB/Scott_Oriole.jpg" width="750"/> <br />
     <em> 
     </em>
 </p>
