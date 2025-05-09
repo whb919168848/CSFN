@@ -20,7 +20,7 @@ Weakly supervised object localization (WSOL) aims to localize objects by only us
 ## Method <a name="4"></a> 
 
 <p align="center">
-    <img src="./imgs/fig1.jpg" width="750"/> <br />
+    <img src="./imgs/fig5.jpg" width="750"/> <br />
     <em> 
     </em>
 </p>
