@@ -186,6 +186,78 @@ Localization visualization results all samples in the class “Scott_Oriole”.
 
 Localization visualization results of samples in the class “Great_White_Shark”. 
 
+<p align="center">
+    <img src="./CAMResults/ILSVRC/Electric_Ray.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results of samples in the class “Electric_Ray”. 
+
+<p align="center">
+    <img src="./CAMResults/ILSVRC/Cock.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results of samples in the class “Cock”. 
+
+<p align="center">
+    <img src="./CAMResults/ILSVRC/Black_Grouse.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results of samples in the class “Black_Grouse”. 
+
+<p align="center">
+    <img src="./CAMResults/ILSVRC/Great_Grey_Owl.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results of samples in the class “Great_Grey_Owl”. 
+
+<p align="center">
+    <img src="./CAMResults/ILSVRC/Ostrich.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results of samples in the class “Ostrich”. 
+
+<p align="center">
+    <img src="./CAMResults/ILSVRC/Thunder_Snake.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results of samples in the class “Thunder_Snake”. 
+
+<p align="center">
+    <img src="./CAMResults/ILSVRC/Kite.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results of samples in the class “Kite”. 
+
+<p align="center">
+    <img src="./CAMResults/ILSVRC/Bullfrog.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results of samples in the class “Bullfrog”. 
+
+<p align="center">
+    <img src="./CAMResults/ILSVRC/Mud_Turtle.jpg" width="750"/> <br />
+    <em> 
+    </em>
+</p>
+
+Localization visualization results of samples in the class “Mud_Turtle”. 
+
 ## Acknowledgements
 
 Many thanks to [SAT (ICCV2023)](https://github.com/wpy1999/SAT).
