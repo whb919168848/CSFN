@@ -78,8 +78,8 @@ You can download the trained models as follows:
 
 |              | Top1 Loc | Top5 Loc | GT Known |      Weights      |
 |:------------:|:--------:|:--------:|:--------:|:-----------------:|
-| CUB-200-2011 |  87.61   |  94.46   |  98.64   | [Baidu Drive](https://pan.baidu.com/s/1AEcJ4Vseo-ZBM1rSOihv8g)  |
-|    ILSVRC    |  63.88   |  70.96   |  73.81   | [Baidu Drive](https://pan.baidu.com/s/1FS2_RMBjYkWJ4LOEi9-NUA) |
+| CUB-200-2011 |  87.61   |  94.46   |  98.64   | [Baidu Drive (Code:00FF)](https://pan.baidu.com/s/1AEcJ4Vseo-ZBM1rSOihv8g)  |
+|    ILSVRC    |  63.88   |  70.96   |  73.81   | [Baidu Drive (Code:00FF)](https://pan.baidu.com/s/1FS2_RMBjYkWJ4LOEi9-NUA) |
 
 
 ## Experimental Results <a name="8"></a> 
@@ -261,6 +261,7 @@ Localization visualization results of samples in the class “Mud_Turtle”.
 ## Acknowledgements
 
 Many thanks to [SAT (ICCV2023)](https://github.com/wpy1999/SAT).
+
 
 
 
