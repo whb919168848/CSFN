@@ -1,4 +1,4 @@
-# "Class-agnostic and Semantic-aware Fusing Network with Optimal Transport for Weakly Supervised Object Localization" has been submitted to IEEE Transactions on Multimedia.
+# "Class-agnostic and Semantic-aware Fusing Network with Optimal Transport for Weakly Supervised Object Localization" has been submitted to Knowledge-Based Systems.
 
 PyTorch implementation of ''Class-agnostic and Semantic-aware Fusing Network with Optimal Transport for Weakly Supervised Object Localization''. This repository contains PyTorch training code, inference code and pretrained models. 
 
@@ -261,6 +261,7 @@ Localization visualization results of samples in the class “Mud_Turtle”.
 ## Acknowledgements
 
 Many thanks to [SAT (ICCV2023)](https://github.com/wpy1999/SAT).
+
 
 
 
